@@ -2,7 +2,14 @@
 <h3 title="hehehe"> Hi there! 👋</h3>
 
 Welcome to my github page!
-
+<br />
+As of now, the only public repositories I have are just shool/military projects, 
+<br />
+I have some more project like a python network manager including a simple packet sniffer and a gui, A previous streaming service application that I have written in both C and Python, 
+<br />
+And some more side projects that i'v decided not to upload to github. <br />
+I have decided to make all of my other projects private since I wrote them a long time ago, and mostly just to practice new things i have learned such as: <br />
+C's basics and socket programming and Select, Python's Scappy and some more technologies, so that the quality of the code is not very high and I dont want that to be my first impression, <br /> since I believe it does not represent my capabilities, but after each failing project time has passed and I have learned a whole lot since about both programming and learning as a skill.
 
 <a href="https://open.spotify.com/user/i1zqxqq66nndazil24ym3owlz">
   <img align="left" width="24px" src="https://www.svgrepo.com/show/469857/spotify-square.svg" />
@@ -12,8 +19,6 @@ Welcome to my github page!
 
 <br />
 <br />
-
- <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
 **About Me!**
 
